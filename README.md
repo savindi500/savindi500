@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN Stack | Java | Node.js**
 
-- 📧 How to reach me **savindi660@gmail.com**
+- 📧 How to reach me **ssavindi660@gmail.com**
   
 
 </td>
