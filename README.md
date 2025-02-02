@@ -57,7 +57,7 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<h3 align="center">Languages and Tools:</h3>
+
 <p align="center">
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="50" height="50"/>
